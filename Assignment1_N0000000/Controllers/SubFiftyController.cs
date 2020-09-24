@@ -13,7 +13,7 @@ namespace Assignment1_N0000000.Controllers
         /// <summary>
         /// Returns the input minus 50
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">the number to be subtracted</param>
         /// <returns></returns>
         public int Get(int id)
         {
